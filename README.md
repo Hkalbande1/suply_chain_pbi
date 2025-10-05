@@ -11,7 +11,7 @@ The project enables data-driven decision-making by providing insights into produ
 
 ---
 
-### ** Dashboard Pages & Layout**
+### **Dashboard Pages & Layout**
 
 ####  **Page 1: Executive Overview**
 
@@ -69,7 +69,7 @@ The project enables data-driven decision-making by providing insights into produ
 ---
 
 
-### **🏁 Outcome**
+### **Outcome**
 
 This dashboard provides a **comprehensive, interactive view of supply chain operations**, empowering stakeholders to:
 
